@@ -200,7 +200,7 @@ section::after{
     transform: translateY(-90px);
     max-width: 100vw;
     position: absolute;
-    background-color: rgba(17, 17, 17, 0.486);
+    background-color: rgba(17, 17, 17, 0.897);
     color: rgba(250, 235, 215, 0.637);
 
 }
@@ -225,6 +225,7 @@ section::after{
         text-align: center;
         width: 100vw;
         left:0;
+        transform: translateY(0px);
     }
     
 }
